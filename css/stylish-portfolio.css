@@ -48,7 +48,7 @@ body {
 
 .btn-light {
     border-radius: 0;
-    color: #333;
+    color: #fff;
     background-color: rgb(255,255,255);
 }
 
@@ -248,7 +248,9 @@ stylish-portfolio.css:295
     margin: 0 auto;
 }
 
-
+title {
+    color: #fff;
+}
 
 /* Footer */
 
